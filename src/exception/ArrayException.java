@@ -1,5 +1,5 @@
 package exception;
-//Write a program to show the Arithmetic Exception.
+//Write a program to show the Aaary Exception.
 
 public class ArrayException {
     public static void main(String[] args) {
